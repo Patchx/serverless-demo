@@ -1,4 +1,4 @@
-baseURL = "http://serverlessrob.com/"
+baseURL = "http://serverlessrob.com"
 languageCode = "en-us"
 title = "Serverless Demo Site"
 theme = "ananke"
