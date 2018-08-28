@@ -6,3 +6,4 @@
     Referrer-Policy = "no-referrer"
     X-Content-Type-Options = "nosniff"
     Content-Security-Policy = "base-uri 'none'; default-src 'self' data: https: wss:; script-src 'self' https://uh610zerq6.execute-api.us-east-1.amazonaws.com https://www.google-analytics.com; object-src 'none'; block-all-mixed-content;"
+    X-Content-Security-Policy = "base-uri 'none'; default-src 'self' data: https: wss:; script-src 'self' https://uh610zerq6.execute-api.us-east-1.amazonaws.com https://www.google-analytics.com; object-src 'none'; block-all-mixed-content;"
